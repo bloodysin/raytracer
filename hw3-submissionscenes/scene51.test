@@ -1,0 +1,188 @@
+#Thousand Spheres
+size 640 480
+camera 0 0 0 0 0 -1 0 1 0 45
+output scene5.png
+
+maxdepth 5
+
+#point 0 20 -40 1 1 1
+directional 0.5 0.5 -0.5 0 0.3 0
+ambient 0.01 0.01 0.01
+specular 0.4 0.4 0.4
+diffuse 0.4 0.4 0.4
+shininess 40
+emission 0 0 0
+
+pushTransform
+translate 0 -2 -5
+
+pushTransform
+translate -2 0 -14
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -2 0 -15
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -2 0 -16
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -2 0 -17
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -2 0 -18
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -2 0 -19
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -2 0 -20
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -1 0 -14
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -1 0 -15
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -1 0 -16
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -1 0 -17
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -1 0 -18
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -1 0 -19
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate -1 0 -20
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 0
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -1
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -2
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -3
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -4
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -5
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -6
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -7
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -8
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -9
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -10
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -11
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -12
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -13
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -14
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -15
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -16
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -17
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -18
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -19
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 0 0 -20
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 1 0 -14
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 1 0 -15
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 1 0 -16
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 1 0 -17
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 1 0 -18
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 1 0 -19
+sphere 0 0 0 0.4
+popTransform
+pushTransform
+translate 1 0 -20
+sphere 0 0 0 0.4
+popTransform
+
+popTransform
